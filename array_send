@@ -1,0 +1,339 @@
+Page_load
+Array
+(
+    [draw] => 1
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => name
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => position
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => office
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => extn
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => start
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [data] => salary
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 0
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [validRequest] => true
+)
+================================================
+Searching
+Array
+(
+    [draw] => 2
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => name
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => position
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => office
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => extn
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => start
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [data] => salary
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 0
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 6
+            [regex] => false
+        )
+
+    [validRequest] => true
+)
+
+=============================
+
+Array
+(
+    [draw] => 2
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => name
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => position
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => office
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => extn
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => start
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [data] => salary
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 0
+                    [dir] => desc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [validRequest] => true
+)
